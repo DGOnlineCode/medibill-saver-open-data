@@ -1,0 +1,26 @@
+[Your full name]
+[Your mailing address]
+
+[Today's date]
+
+[Hospital name]
+[Hospital billing address]
+
+Re: Request for an itemized statement (account [your account number, if you have one], date(s) of service [date(s) of service])
+
+To the billing department,
+
+I am asking for a complete, itemized statement for the account above. I make this request under my right to see my own records in the HIPAA Privacy Rule, 45 CFR § 164.524.
+
+Please send a bill that lists every charge on its own line. For each line, please include the date of service, a plain description, the billing code (CPT, HCPCS, or revenue code), the quantity, and the amount charged. A summary that shows only department totals does not answer this request.
+
+Under 45 CFR § 164.524, please send these records within 30 days of the day you receive this letter. If you need more time, the rule allows one 30-day extension when you tell me in writing why, and the date you will respond.
+
+Please mail the itemized statement to me at the address above.
+
+Thank you for your help.
+
+Sincerely,
+
+
+[Your full name]
